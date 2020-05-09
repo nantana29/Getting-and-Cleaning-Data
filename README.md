@@ -1,4 +1,4 @@
-# Background of Peer-graded Assignment: Getting and Cleaning Data Course Project
+# Peer-graded Assignment: Getting and Cleaning Data Course Project
 This reposotory is a work of Nantana as a submission for Getting and Cleaning Data Course Project. It includes the instruction on how to run analysis in R. 
 # Dataset
 Human Activity Recognition Using Smartphones Data Set obtained from UCI Machine Learning Repository. 
