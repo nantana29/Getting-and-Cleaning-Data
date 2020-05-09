@@ -22,4 +22,4 @@ I have created one R script called "run_analysis.R" that does 5 steps of collect
 4. Appropriately labels the data set with descriptive variable names.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-The "run_analysis.R" performs five steps in accordance with a task instruction and can be run as the Samsung data is also included in this working directory. The output of the code is the tidy data set, named "Tidy.txt" which is submitted for part 1 of this assignment. 
+The "run_analysis.R" performs five steps in accordance with a task instruction. The output of the code is the tidy data set, named "Tidy.txt" which is submitted for part 1 of this assignment. 
