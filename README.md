@@ -12,7 +12,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 # Files submitted 
 1. The tidy data set created in step 5 of the instructions named "Tidy.txt"
 2. R script called "run_analysis.R"
-3. "Codebook" describing the variables
+3. "Codebook.md" describing the variables
 4. "README.md" describing how the scripts work
 # About the R script
 I have created one R script called "run_analysis.R" that does 5 steps of collecting, working with, and cleaning a data set as follows:
